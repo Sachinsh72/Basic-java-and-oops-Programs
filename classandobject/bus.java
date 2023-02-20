@@ -1,4 +1,6 @@
-public class Bus {
+package classandobject;
+
+public class bus {
     static String brand;
     String name;
     String color;
@@ -12,9 +14,10 @@ public class Bus {
 
     public static void main(String[] args) {
         System.out.println(brand);
-        Bus b1 = new Bus();
+        bus b1 = new bus();
         System.out.println(b1.name);
         run();
 
     }
 }
+

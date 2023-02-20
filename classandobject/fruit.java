@@ -1,3 +1,5 @@
+package classandobject;
+
 //If Reference of the object is used to initialize non-static members then it is initialization by the reference
 
 public class fruit {
@@ -21,3 +23,4 @@ public class fruit {
 
 
 }
+

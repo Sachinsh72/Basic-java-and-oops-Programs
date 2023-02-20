@@ -1,3 +1,5 @@
+package classandobject;
+
 public class Car {
     String name;
     int price;
@@ -16,3 +18,4 @@ public class Car {
         System.out.println(c1); //will print address of c1
     }
 }
+
